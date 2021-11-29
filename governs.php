@@ -25,9 +25,7 @@ include "config.php";
                         <div class="col">
                         <input type="text" class="form-control" placeholder="Room Id" name = "room_id">
                         </div>
-                        <div class="col">
-                        <input type="text" class="form-control" placeholder="Type" name = "type">
-                        </div>
+
                         <div class="col">
                         <input type="text" class="form-control" placeholder="Employee Id" name = "e_id">
                         </div>
