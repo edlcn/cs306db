@@ -24,7 +24,7 @@
                         <input type="text" class="form-control" placeholder="Patient Id" name = "p_id">
                         </div>
                         <div class="col">
-                        <input type="text" class="form-control" placeholder="Employee Id" name = "e_id">
+                        <input type="text" class="form-control" placeholder="Doctor Id" name = "e_id">
                         </div>
                         <button type = "submit" class ="btn btn-primary" > Add </button>
                         </div>
