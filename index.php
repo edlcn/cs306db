@@ -19,43 +19,43 @@
                 <div class = "card mt-5 bg-dark " style="width: 700px;">
                     <div class = "card-body">
                        <nav class="nav justify-content-center">
-                            <a href = "attends.php" class ="navlink">Attends</a>
+                            <a href = "attends_a.php" class ="navlink">Attends</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "buys.php" class ="navlink">Buys</a>
+                            <a href = "buys_a.php" class ="navlink">Buys</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "clerk.php" class ="navlink">Clerk</a>
+                            <a href = "clerk_a.php" class ="navlink">Clerk</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "stores.php" class ="navlink">Stores</a>
+                            <a href = "stores_a.php" class ="navlink">Stores</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "staysin.php" class ="navlink">Stays_in</a>
+                            <a href = "staysin_a.php" class ="navlink">Stays_in</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "room.php" class ="navlink">Room</a>
+                            <a href = "room_a.php" class ="navlink">Room</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "record.php" class ="navlink">Record</a>
+                            <a href = "record_a.php" class ="navlink">Record</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "patient.php" class ="navlink">Patient</a>
+                            <a href = "patient_a.php" class ="navlink">Patient</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "nurse.php" class ="navlink">Nurse</a>
+                            <a href = "nurse_a.php" class ="navlink">Nurse</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "medicine.php" class ="navlink">Medicine</a>
+                            <a href = "medicine_a.php" class ="navlink">Medicine</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "governs.php" class ="navlink">Governs</a>
+                            <a href = "governs_a.php" class ="navlink">Governs</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "doctor.php" class ="navlink">Doctor</a>
+                            <a href = "doctor_a.php" class ="navlink">Doctor</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "employee.php" class ="navlink">Employee</a>
+                            <a href = "employee_a.php" class ="navlink">Employee</a>
                        </nav>
                        
                     </div>
