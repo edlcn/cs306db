@@ -32,10 +32,10 @@ include "config.php";
                         <input type="text" class="form-control" placeholder="Age" name = "age">
                         </div>
                         <div class="col">
-                        <input type="text" class="form-control" placeholder="Arrival Date" name = "date_arrival">
+                        <input type="text" class="form-control" placeholder="Height" name = "height">
                         </div>
                         <div class="col">
-                        <input type="text" class="form-control" placeholder="Discharge Date" name = "date_discharge">
+                        <input type="text" class="form-control" placeholder="Weight" name = "weight">
                         </div>
                         
                         

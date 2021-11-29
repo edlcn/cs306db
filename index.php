@@ -16,7 +16,7 @@
         <div class ="row">
             <div class = "col">
             <div class="d-flex justify-content-center align-items-center">
-                <div class = "card mt-5 bg-dark " style="width: 600px;">
+                <div class = "card mt-5 bg-dark " style="width: 700px;">
                     <div class = "card-body">
                        <nav class="nav justify-content-center">
                             <a href = "attends.php" class ="navlink">Attends</a>

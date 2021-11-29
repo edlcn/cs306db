@@ -5,9 +5,10 @@ if (!empty($_POST["p_id"])){
     $name = $_POST["name"];
     $pid = $_POST["p_id"];
     $age = $_POST["age"];
-    $date_arrival = $_POST["date_arrival"];
-    $date_discharge = $_POST["date_discharge"];
-    $sqls = "INSERT INTO patient(p_id,name,age,date_arrival,date_discharge) values ($pid,'$name',$age,'$date_arrival','$date_discharge')";
+    $height = $_POST["height"];
+    $weight = $_POST["weight"];
+
+    $sqls = "INSERT INTO patient(p_id,name,age,height,weight) values ($pid,'$name',$age,'$height','$weight')";
     $result = mysqli_query($db,$sqls);
     echo "Added.";
 }
