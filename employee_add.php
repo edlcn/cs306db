@@ -8,7 +8,7 @@ if (!empty($_POST["e_id"])){
     $salary = $_POST["salary"];
     $sqlss = "INSERT INTO employee(e_id,name,age,salary) values ($eid,'$name',$age,$salary)";
     $result = mysqli_query($db,$sqlss);
-    echo $sqlss;
+    echo "Employee $name is added.";
 }
 else {
     echo "Not added.";

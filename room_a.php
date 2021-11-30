@@ -22,7 +22,7 @@
                             <a href = "room.php" class ="navlink">Insert</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "room_d.php" class ="navlink">Delete</a>
+                            <a href = "room_admin.php" class ="navlink">Delete</a>
                        </nav>
                        
                        

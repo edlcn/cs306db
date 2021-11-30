@@ -22,7 +22,7 @@
                             <a href = "employee.php" class ="navlink">Insert</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "employee_d.php" class ="navlink">Delete</a>
+                            <a href = "employee_admin.php" class ="navlink">Delete</a>
                        </nav>
                        
                        
