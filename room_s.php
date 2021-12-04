@@ -10,7 +10,7 @@ include "config.php";
 
         $sql_comment = "SELECT DISTINCT room_id FROM room";
         $myresult = mysqli_query($db,$sql_comment);
-        echo "<option value = $rid>" . "any" ."</option>";
+        echo "<option value = >" . "any" ."</option>";
         while($id_rows = mysqli_fetch_assoc($myresult)){
             $rid = $id_rows["room_id"];
             echo "<option value = $rid>" . $rid ."</option>";
@@ -27,7 +27,7 @@ include "config.php";
 
         $sql_comment = "SELECT DISTINCT type FROM room";
         $myresult = mysqli_query($db,$sql_comment);
-        echo "<option value = $type>" . "any" ."</option>";
+        echo "<option value = >" . "any" ."</option>";
         while($id_rows = mysqli_fetch_assoc($myresult)){
             $type = $id_rows["type"];
             echo "<option value = $type>". $type . "</option>";
