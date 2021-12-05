@@ -22,7 +22,7 @@
                             <a href = "staysin.php" class ="navlink">Insert</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "staysin_d.php" class ="navlink">Delete</a>
+                            <a href = "stays_in_admin.php" class ="navlink">Delete</a>
                        </nav>
                        
                        

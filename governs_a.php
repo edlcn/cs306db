@@ -22,7 +22,7 @@
                             <a href = "governs.php" class ="navlink">Insert</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "governs_d.php" class ="navlink">Delete</a>
+                            <a href = "governs_admin.php" class ="navlink">Delete</a>
                        </nav>
                        
                        
