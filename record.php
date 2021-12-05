@@ -23,7 +23,7 @@ include "config.php";
                     <form action = "record_add.php" method = "post" >
                         <div class="row">
                         <div class="col">
-                        <input type="text" class="form-control" placeholder="Record Id" name = "record_id">
+                        <input type="text" class="form-control" placeholder="Record Id" name = "rec_id">
                         </div>
                         <div class="col">
                         <input type="text" class="form-control" placeholder="Patient Id" name = "p_id">
