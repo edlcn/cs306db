@@ -24,7 +24,9 @@
                        <nav class="nav justify-content-center">
                             <a href = "doctor_d.php" class ="navlink">Delete</a>
                        </nav>
-                       
+                       <nav class="nav justify-content-center">
+                            <a href = "doctor_s.php" class ="navlink">Select</a>
+                       </nav>
                        
                     </div>
                 </div>
