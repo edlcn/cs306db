@@ -22,7 +22,7 @@
                             <a href = "record.php" class ="navlink">Insert</a>
                        </nav>
                        <nav class="nav justify-content-center">
-                            <a href = "record_d.php" class ="navlink">Delete</a>
+                            <a href = "record_admin.php" class ="navlink">Delete</a>
                        </nav>
                        <nav class="nav justify-content-center">
                             <a href = "record_s.php" class ="navlink">Select</a>
