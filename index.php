@@ -12,58 +12,80 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 </head>
 <body style = "background-color:grey;">
-<div class="container ">
-        <div class ="row">
-            <div class = "col">
-            <div class="d-flex justify-content-center align-items-center">
-                <div class = "card mt-5 bg-dark " style="width: 700px;">
-                    <div class = "card-body">
-                       <nav class="nav justify-content-center">
-                            <a href = "attends_a.php" class ="navlink">Attends</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "buys_a.php" class ="navlink">Buys</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "clerk_a.php" class ="navlink">Clerk</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "stores_a.php" class ="navlink">Stores</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "staysin_a.php" class ="navlink">Stays_in</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "room_a.php" class ="navlink">Room</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "record_a.php" class ="navlink">Record</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "patient_a.php" class ="navlink">Patient</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "nurse_a.php" class ="navlink">Nurse</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "medicine_a.php" class ="navlink">Medicine</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "governs_a.php" class ="navlink">Governs</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "doctor_a.php" class ="navlink">Doctor</a>
-                       </nav>
-                       <nav class="nav justify-content-center">
-                            <a href = "employee_a.php" class ="navlink">Employee</a>
-                       </nav>
-                       
-                    </div>
-                </div>
-                </div>
+<div align = "center">
+    <br>
+    <b><h1 style="color:royalblue">Hospital Database Admin Panel</h1></b>
+    <br>
+    <br>
+    <br>
+
+</div>
+
+<div class="row">
+    <div class = "column">
+        <div class = "container" >
+            <b><h1 style="color:grey">SPACESPACES</h1></b>
+        </div>
+    </div>
+    <div class="column">
+        <br>
+        <br>
+        <image src = "imgs/grove.png" height="350" weight = "330" ></image>
+    </div>
+    <div class = "column">
+        <div class = "container">
+            <b><h1 style="color:grey">SPACES</h1></b>
+
+        </div>
+    </div>
+    <div class="column">
+        <div class = "card mt-5 bg-dark " style="width: 550px;">
+
+            <div class = "card-body">
+                <nav class="nav justify-content-center">
+                    <a href = "attends_a.php" class ="navlink">Attends</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "buys_a.php" class ="navlink">Buys</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "clerk_a.php" class ="navlink">Clerk</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "stores_a.php" class ="navlink">Stores</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "staysin_a.php" class ="navlink">Stays_in</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "room_a.php" class ="navlink">Room</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "record_a.php" class ="navlink">Record</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "patient_a.php" class ="navlink">Patient</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "nurse_a.php" class ="navlink">Nurse</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "medicine_a.php" class ="navlink">Medicine</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "governs_a.php" class ="navlink">Governs</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "doctor_a.php" class ="navlink">Doctor</a>
+                </nav>
+                <nav class="nav justify-content-center">
+                    <a href = "employee_a.php" class ="navlink">Employee</a>
+                </nav>
+
             </div>
         </div>
     </div>
+</div>
 
 
 
