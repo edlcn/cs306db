@@ -14,20 +14,20 @@
 <body style = "background-color:grey;">
 <div align = "center">
     <br>
-    <b><h1 style="color:royalblue">Hospital Database User Selection</h1></b>
+    <b><h1 style="color:royalblue">Hospital Database Admin Panel</h1></b>
     <br>
     <br>
     <br>
 
 </div>
 
-<div class = "row">
+<div class="row">
     <div class = "column">
         <div class = "container" >
             <b><h1 style="color:grey">SPACESPACES</h1></b>
         </div>
     </div>
-    <div class = "column">
+    <div class="column">
         <br>
         <br>
         <image src = "imgs/grove.png" height="350" weight = "330" ></image>
@@ -38,18 +38,15 @@
 
         </div>
     </div>
-    <div class = "column">
+    <div class="column">
         <div class = "card mt-5 bg-dark " style="width: 550px;">
 
             <div class = "card-body">
                 <nav class="nav justify-content-center">
-                    <a href = "adminPage.php" class ="navlink">Log in as Admin</a>
+                    <a href = "patient.php" class ="navlink">Register as first Time</a>
                 </nav>
                 <nav class="nav justify-content-center">
-                    <a href = "employeePage.php" class ="navlink">Log in as Employee</a>
-                </nav>
-                <nav class="nav justify-content-center">
-                    <a href = "patientPage.php" class ="navlink">Log in as Patient</a>
+                    <a href = "existingPatientPage.php" class ="navlink">Log in</a>
                 </nav>
 
             </div>
