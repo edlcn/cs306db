@@ -46,7 +46,7 @@
                     <a href = "adminPage.php" class ="navlink">Log in as Admin</a>
                 </nav>
                 <nav class="nav justify-content-center">
-                    <a href = "employeePage.php" class ="navlink">Log in as Employee</a>
+                    <a href = "employee_id.php" class ="navlink">Log in as Employee</a>
                 </nav>
                 <nav class="nav justify-content-center">
                     <a href = "patientPage.php" class ="navlink">Log in as Patient</a>
