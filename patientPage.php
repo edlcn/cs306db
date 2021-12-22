@@ -46,7 +46,7 @@
                     <a href = "patient.php" class ="navlink">Register as first Time</a>
                 </nav>
                 <nav class="nav justify-content-center">
-                    <a href = "existingPatientPage.php" class ="navlink">Log in</a>
+                    <a href = "patient_id.php" class ="navlink">Log in</a>
                 </nav>
 
             </div>
