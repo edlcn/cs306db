@@ -12,47 +12,29 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 </head>
 <body style = "background-color:grey;">
-<div align = "center">
-    <br>
-    <b><h1 style="color:royalblue">Hospital Database Admin Panel</h1></b>
-    <br>
-    <br>
-    <br>
-
-</div>
-
-<div class="row">
-    <div class = "column">
-        <div class = "container" >
-            <b><h1 style="color:grey">SPACESPACES</h1></b>
-        </div>
-    </div>
-    <div class="column">
-        <br>
-        <br>
-        <image src = "imgs/grove.png" height="350" weight = "330" ></image>
-    </div>
-    <div class = "column">
-        <div class = "container">
-            <b><h1 style="color:grey">SPACES</h1></b>
-
-        </div>
-    </div>
-    <div class="column">
-        <div class = "card mt-5 bg-dark " style="width: 550px;">
-
-            <div class = "card-body">
-                <nav class="nav justify-content-center">
+<div class="container">
+        <div class ="row">
+            <div class = "col">
+                <div class="d-flex justify-content-center align-items-center">
+                <div class = "card mt-5 bg-dark " style="width: 800px; ">
+                    <div class = "card-body">
+                    <nav class="nav justify-content-center">
                     <a href = "patient.php" class ="navlink">Register as first Time</a>
                 </nav>
                 <nav class="nav justify-content-center">
                     <a href = "patient_id.php" class ="navlink">Log in</a>
                 </nav>
-
+        
+                    </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-</div>
+
+
+
+
 
 
 
