@@ -31,7 +31,7 @@
                 
                 
                 </li>
-                <li><a href = "#">Çalışan Kadrosu</a></li>
+                <li><a href = "employeeList.php">Çalışan Kadrosu</a></li>
                 
             </ul>
         </div>
