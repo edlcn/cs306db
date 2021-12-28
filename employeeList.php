@@ -44,7 +44,7 @@
                     <li><a href = "employeeList.php">Çalışan Kadrosu</a></li>
                 </ul>
             </div>
-            <div class = "doctorList">
+            <div class = "doctorList" style="width: 75%; height: 90%; font-size: 20px; margin:0 auto;">
                 <?php
                     include "config.php";
 
