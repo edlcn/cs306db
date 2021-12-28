@@ -48,8 +48,15 @@
                 
             </ul>
         </div>
-        <div class="box">
-            To complete
+        <div class="center">
+            <h2>
+                The purpose of this project was to create a database of a hospital. 
+                This web page includes a database which stores data such as personal 
+                information of doctors, nurses, clerks and patients, number of rooms, 
+                price of medicine etc. With the help of this data, it is way more 
+                easier employees to track patients. Additionally, patients can register 
+                or login so as to be informed about their rooms, records and treatment.
+            </h2>
         </div>
     </div>
 

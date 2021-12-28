@@ -61,7 +61,7 @@ li {
 }
 
 .center h1{
-    color: purple;
+    color: black;
     font-size: 70px;
     font-weight: bold;
     width: 900px;
@@ -69,11 +69,12 @@ li {
 }
 
 .center h2{
-    color: purple;
-    font-size: 50px;
+    color: midnightblue;
+    font-size: 30px;
     font-weight: bold;
     width: 885px;
     margin-top: 10px;
+    margin-left: 550px;
     text-align: center;
 }
 
