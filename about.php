@@ -47,18 +47,39 @@
                 <li><a href = "employeeList.php">Çalışan Kadrosu</a></li>
                 
             </ul>
-        </div>
-        <div class="center">
-            <h2>
-                The purpose of this project was to create a database of a hospital. 
-                This web page includes a database which stores data such as personal 
-                information of doctors, nurses, clerks and patients, number of rooms, 
-                price of medicine etc. With the help of this data, it is way more 
-                easier employees to track patients. Additionally, patients can register 
-                or login so as to be informed about their rooms, records and treatment.
-            </h2>
-        </div>
-    </div>
+            <div style = "position:absolute; left:1050px; top:150px;right: 130px;color:#181818;font-size:15px ">
+                <h1>
+                    The purpose of this project was to create a database of a hospital.
+                    This web page includes a database which stores data such as personal
+                    information of doctors, nurses, clerks and patients, number of rooms,
+                    price of medicine etc. With the help of this data, it is way more
+                    easier employees to track patients. Additionally, patients can register
+                    or login so as to be informed about their rooms, records and treatment.
+
+                </h1>
+                <br>
+                <h1>
+                    &#9733
+                    Ataollah Hosseinzadeh Fard
+                </h1>
+                <br>
+                <h1>
+                    &#9733
+                    Emirhan Delican
+                </h1>
+                <br>
+                <h1>
+                    &#9733
+                    Mete Harun Akçay
+                </h1>
+                <br>
+                <h1>
+                    &#9733
+                    Yağız Kılıçarslan
+                </h1>
+            </div>
+
+
 
     
 </body>
