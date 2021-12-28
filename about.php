@@ -7,7 +7,15 @@
     <title>CS306DB</title>
     <link rel = "stylesheet" href = "style.css">
     <style>
-        
+        .box {
+            position: absolute;
+            bottom: 700px;
+            right: 300px;
+            font-size: 18px;
+            width: 500px;
+            
+            
+        }
 
 
     </style>
@@ -21,7 +29,7 @@
             </div>
             <ul>
                 <li><a href = "index.php">Main Page</a></li>
-                <li><a href = "about.php">About</a></li>
+                <li><a href = "#">About</a></li>
                 
                 <li><a href = "adminPage.php">Database Management</a></li>
                 <li><a href = "#">Login</a>
@@ -40,7 +48,9 @@
                 
             </ul>
         </div>
-        
+        <div class="box">
+            To complete
+        </div>
     </div>
 
     
