@@ -8,6 +8,7 @@ if (!empty($_GET["eid"])){
 
     if (!empty($_GET["name"])) {
         $pro = $_GET["name"];
+        $name = str_replace('+', ' ', $pro);
         $sql_comment .= " AND name = '".$name."' ";
     }
 
@@ -33,6 +34,7 @@ else {
 
     if (!empty($_GET["name"])) {
         $pro = $_GET["name"];
+        $name = str_replace('+', ' ', $pro);
         $sql_comment .= " WHERE name = '".$name."' ";
         $hasWhere = true;
     }

@@ -5,7 +5,7 @@ include "config.php";
 <div align = "center">
     <br>
     <br>
-    <b><p style="color:blue">Delete Patient</p></b>
+    <b><p style="color:blue">Select Patient</p></b>
     <br>
     <br>
     <form action = "patient_select.php" method = "GET">
@@ -36,7 +36,7 @@ include "config.php";
             echo "<option value = >" . "any" ."</option>";
             while($id_rows = mysqli_fetch_assoc($myresult)){
                 $name = $id_rows["name"];
-                echo "<option value = $name>". $name . "</option>";
+                echo "<option value = '".$name."'>". $name . "</option>";
             }
 
             ?>

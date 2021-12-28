@@ -6,8 +6,9 @@ if (!empty($_GET["pid"])){
     
     $sql_comment = "SELECT * FROM patient WHERE p_id = '".$pid."' ";
 
-    if (!empty($_GET["name"])){
-        $name = $_GET["name"];
+    if (!empty($_GET["name"])) {
+        $pro = $_GET["name"];
+        $name = str_replace('+', ' ', $pro);
         $sql_comment .= " AND name = '".$name."' ";
     }
 
@@ -36,8 +37,9 @@ else {
     $sql_comment = "SELECT * FROM patient";
     $hasWhere = false;
 
-    if (!empty($_GET["name"])){
-        $name = $_GET["name"];
+    if (!empty($_GET["name"])) {
+        $pro = $_GET["name"];
+        $name = str_replace('+', ' ', $pro);
         $sql_comment .= " WHERE name = '".$name."' ";
         $hasWhere = true;
     }

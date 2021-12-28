@@ -30,7 +30,7 @@ include "config.php";
         echo "<option value = >" . "any" ."</option>";
         while($id_rows = mysqli_fetch_assoc($myresult)){
             $name = $id_rows["name"];
-            echo "<option value = $name>". $name . "</option>";
+            echo "<option value = '".$name."'>". $name . "</option>";
         }
 
         ?>
